@@ -1,3 +1,3 @@
-logs
-data_ckpt
+logs/
+data_ckpt/
 .DS_Store
