@@ -1,0 +1,10 @@
+torch
+torchvision
+accelerate
+numpy
+Pillow
+matplotlib
+tqdm
+fastdtw
+scipy
+einops
