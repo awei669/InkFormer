@@ -6,7 +6,7 @@ This repository provides the training, inference, and evaluation code for **InkF
 
 ## Updates
 - [2026/10/23] Code and pretrained weights are released.
-- [2026/10/15] InkFormer is accepted by TMLR 2026 🎉🎉🎉.
+- [2026/10/15] InkFormer is accepted by [TMLR 2026](https://openreview.net/forum?id=Nbhw2Y5Nmh) 🎉🎉🎉.
 
 ## Repository Structure
 
