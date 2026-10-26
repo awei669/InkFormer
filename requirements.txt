@@ -1,10 +1,13 @@
-torch
-torchvision
-accelerate
-numpy
-Pillow
-matplotlib
-tqdm
-fastdtw
-scipy
-einops
+# Pinned to the environment this repository was developed and tested with (Python 3.9, CUDA 12.4).
+# For GPU support, install the PyTorch CUDA 12.4 builds from the official wheel index:
+#   pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+accelerate==0.23.0
+numpy==1.24.0
+Pillow==11.2.1
+matplotlib==3.9.4
+tqdm==4.67.1
+scipy==1.13.1
+einops==0.8.1
+fastdtw==0.3.4
