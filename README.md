@@ -119,7 +119,7 @@ scripts/evaluate.sh →  nDTW / content score / style score
 ```
 
 ## Acknowledgements
-- [CASIA-OLHWDB](https://nlpr.ia.ac.cn/databases/handwriting/home.html), [ICDAR-2013](https://ieeexplore.ieee.org/document/6628856) and [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) are valuable resources for this work.
+- [CASIA-OLHWDB](https://nlpr.ia.ac.cn/databases/handwriting/home.html), [ICDAR-2013 Competition](https://ieeexplore.ieee.org/document/6628856), [MSDS](https://github.com/HCIILAB/MSDS) and [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) are valuable resources for this work.
 
 
 ## Citation
