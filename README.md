@@ -38,7 +38,7 @@ Main dependencies: PyTorch, torchvision, accelerate, numpy, Pillow, matplotlib, 
 
 ## Data & Checkpoints
 
-Download: [Google Drive](https://drive.google.com/drive/folders/11hZj06JCcMAIFrA8MwBeZ1Jg8UU2u7Ac) (Access via Google Drive request or GitHub Issues; responses may be delayed.)
+Request access via [Google Drive](https://drive.google.com/drive/folders/11hZj06JCcMAIFrA8MwBeZ1Jg8UU2u7Ac) or leave a message on GitHub Issues (responses may be delayed).
 
 After downloading, place the files under `data_ckpt/` as follows:
 
